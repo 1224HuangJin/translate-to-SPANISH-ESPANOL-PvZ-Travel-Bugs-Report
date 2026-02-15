@@ -24,13 +24,13 @@
     "260f66abc4a61321161b9a3414600646": "Error",
     "198ebf6b62917c64a7e570c5e572b318": [
         "Cargando",
-        "出错了！",
+        "Error!",
         "，可能是由于服务器卡顿或者文件名大小写不对导致的呢qwq，如果长时间停留在一个地方别忘了刷新哦，如果刷新多次依然不行，请反馈给程序员小姐姐w~"
     ],
     "1e6c6f98c994b29e9fe38a138ca39bd5": [
         " 现身了！ 名为 ",
         " 的错误就躲在 ",
-        "！\n它会对游戏正常运行有影响，请及时截图反馈至github或者粉丝群！\n双击就可以加群啦！"
+        "!\nAfectará el funcionamiento normal del juego¡Toma una captura de pantalla y envíala a GitHub o al grupo de fans!\n¡Haz doble clic para unirte al grupo!"
     ],
     "f427b60d5ebbc9803e4280ad3fd6d0d2": "¿Llevar la planta actual aumentará la dificultad, ¿ confirmar llevar?",
     "96922b1b075633116839cab7596bdabc": [
@@ -90,8 +90,8 @@
     "ca0b7d92359b9d0d99e789aa2ef15e80": "Hay espejos que se cruzan con plantas",
     "892af75bf17972721ce9ac90ef0f2cb7": "存在植物Espejo超出边界！",
     "d031619ea13b2c3373f8c2a1f735765a": "存在植物Espejo重叠！",
-    "858dbf0cea0e0686840a29026c56066c": "Espejo植物会超过边界！",
-    "baa25d8226a71758ff776b90e392a913": "Espejo植物不可被种植！",
+    "858dbf0cea0e0686840a29026c56066c": "¡Panta de espejo se superá el límite!",
+    "baa25d8226a71758ff776b90e392a913": "¡Planta de espejo no se puede plantar!",
     "e1dd50be3e215a42bb7bfe3c49cd93e6": "Carrito pequeño",
     "1301b8875023d78b1618a53b92b6b63a": "Logros",
     "5f243cc5b7ed5e8048ea5c3990f441d4": [
@@ -557,7 +557,8 @@
     "26db9f147ace75a53c25d22e086e34dc": "El usuario no existe",
     "ff4f3d6f477cadeb8f6aa1785b33a5fd": "¿Inicio de sesión exitoso, ¿ lee el archivo desde la nube?",
     "9f5cb0cc56043f0de9cf225adb83a235": "Inicio de sesión exitoso",
-    "788aad70ec708d97d5d8fd292dfd2c6d": "注册失败，用户名(1~14位)或密码格式错误，密码请使用英文大小写字母或下划线(9~16位)",
+    "788aad70ec708d97d5d8fd292dfd2c6d": "Falló de registro, nombre de usario(1~14 letras) o error de formato de contraseña, usa letras latino mayúsculas y minúsculas(A~z) o (9~16 letras)",
+    注册失败，用户名(1~14位)或密码格式错误，密码请使用英文大小写字母或下划线(9~16位)",
     "6d4414ede4f769cbf8283024dae1354e": "El nombre de usuario ya está en uso",
     "dcdb6ff7a8d373f26ed0041b5089a958": "Registro exitoso",
     "3e495eea3751473db36db6eead38726f": "¡Guardar completado!",
